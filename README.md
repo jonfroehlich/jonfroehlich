@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I am a Professor in Human-Computer Interaction at UW’s Allen School of Computer Science and Engineering.
+
+- 🛠 Director, [Makeability Lab](https://makeabilitylab.cs.washington.edu/)
+- ♿ Co-founder, [Project Sidewalk](https://projectsidewalk.org)
+- 🔗 [Academic website](https://jonfroehlich.github.io/)
+
 <!--
 **jonfroehlich/jonfroehlich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
