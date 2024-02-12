@@ -4,6 +4,7 @@ I am a Professor in Human-Computer Interaction at UW’s Allen School of Compute
 
 - 🛠 Director, [Makeability Lab](https://makeabilitylab.cs.washington.edu/)
 - ♿ Co-founder, [Project Sidewalk](https://projectsidewalk.org)
+- 👨🏽‍🏫 Teacher, [Prototyping Interactive Systems](https://makeabilitylab.github.io/physcomp/)
 - 🔗 [Academic website](https://jonfroehlich.github.io/)
 
 <!--
